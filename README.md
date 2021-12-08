@@ -9,6 +9,7 @@
 
 2. connet to front node using SSH (e.g. with PuTTY)
 
+![putty_login](readme_imgs/putty_login.PNG)
 
 
 3. go to strage directory with code
@@ -23,5 +24,9 @@ cd /storage/brno3-cerit/home/username/Metacentum_GPU_Pytorch_example/code
 qsub run_metacentrum.pbs
 ```
 
+![putty_run](readme_imgs/putty_run.PNG)
 
-5. check for outputs
+5. check for outputs - results an logs
+
+![winscp_results](readme_imgs/winscp_results.PNG)
+![winscp_logs](readme_imgs/winscp_logs.PNG)
