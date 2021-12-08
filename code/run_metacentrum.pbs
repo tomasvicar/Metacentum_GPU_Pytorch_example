@@ -5,6 +5,8 @@
 #PBS -l walltime=0:10:00
 #PBS -m ae
 
+# adjust for your computatinal requirements
+
 
 # pytorch singularity image path - can be changed to actual version
 SINGULARITYFILE=/cvmfs/singularity.metacentrum.cz/NGC/PyTorch\:21.05-py3.SIF
