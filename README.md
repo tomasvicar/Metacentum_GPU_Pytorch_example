@@ -3,8 +3,9 @@
 ### How to run this example:
 
 1. upload code and dat to storage (e.g. with WinSCP)
-
-
+2. 
+![winscp_login](readme_imgs/winscp_login.PNG)
+![winscp_upload](readme_imgs/winscp_upload.PNG)
 
 2. connet to front node using SSH (e.g. with PuTTY)
 
