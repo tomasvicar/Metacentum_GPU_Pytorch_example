@@ -1,1 +1,0 @@
-# Metacentum_GPU_Pytorch_example
