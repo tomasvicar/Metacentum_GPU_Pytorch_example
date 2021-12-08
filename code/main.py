@@ -16,15 +16,18 @@ data_dir = '../data'  # data are avaliable
 a = torch.zeros(5).cuda() ### test GPU
 
 
+# test data loading
 with open(data_dir + '/example_data.txt', 'r') as f:
     data = np.fromstring(f.read(), sep=' ')
     
 
 
+# save something to save_dir
 with open(save_dir + '/result.txt', 'w') as f:
 	f.write('sum is ' + str(np.sum(data)))
     
     
+# you can see prints in log file
 print('print something for log file')
 
 
