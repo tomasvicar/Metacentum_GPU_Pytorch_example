@@ -1,5 +1,7 @@
 # Metacentum_GPU_Pytorch_example
 
+To run your Pytorch code with GPU on [Metacentrum](https://metavo.metacentrum.cz/) -  you can just add your Python code ang your data.
+
 ### How to run this example:
 
 1. upload code and dat to storage (e.g. with WinSCP)
